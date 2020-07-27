@@ -1,1 +1,1 @@
-# prob-solver
+# ProbSolver Github Pages
